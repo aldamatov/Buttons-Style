@@ -23,7 +23,7 @@ button:hover {
   color: rgb(236, 253, 2);
 }
 .large:hover {
-  background-color: brown;
+  background-color: rgb(116, 7, 7);
   color: white;
 }
 a:active {
